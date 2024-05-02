@@ -2,7 +2,6 @@
 
 I am a passionate B.tech CS student at Manipal Institute of Technology, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![Brohan7524's Stats](https://github-readme-stats.vercel.app/api?username=<Brohan7524>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
