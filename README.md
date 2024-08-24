@@ -11,21 +11,6 @@ I am a passionate B.tech CS student at Manipal Institute of Technology, driven b
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,java,python,c,mysql,azure,androidstudio,discord,github,html,linkedin,notion)](https://skillicons.dev)
-## 🌱 Currently Exploring
-
-- 🚀 Learning Native Andriod Development
-  - Exploring the ins and outs of Kotlin & Jetpack Compose for dynamic front-end experiences.
-  - Styling with MaterialUi3 to create modern and responsive user interfaces.
-  - Learning REST-API calls using Retrofit.
-  - Diving into RoomDB and RealmDB for efficient database management.
-
-
-- 🚀 Learning Data Analytics and Engineering 
-  - Exploring and learning the fundamentals of Data and the Hierarchy of Needs.
-  - Learning the Data Engineering lifecycle and its current industrial use.
-  - Collecting and building databases useful in Data Science, Analytics & Machine Learning using ELT/ETL operations in Python.
-  - Learning Cloud Operations in Microsoft Azure.
-
 
 ## 📬 Get in Touch
 
