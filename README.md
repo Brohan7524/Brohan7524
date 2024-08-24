@@ -10,7 +10,7 @@ I am a passionate B.tech CS student at Manipal Institute of Technology, driven b
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,c,mysql,azure,androidstudio,discord,github,html,linkedin,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,java,python,c,mysql,azure,androidstudio,discord,github,html,linkedin,notion)](https://skillicons.dev)
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Native Andriod Development
