@@ -6,7 +6,6 @@ I am a passionate B.tech CS student at Manipal Institute of Technology, driven b
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelors in Computer Science at Manipal Institute of Technology.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 
 
 ## Tech Stack
